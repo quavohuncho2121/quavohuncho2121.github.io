@@ -1,1 +1,13 @@
 
+      body{background-color:black; color:white}
+      h1{text-align: center; backgroundcolor:red; !important;}
+      .backcolor{background-color:red;}
+      #tableheader{font-weight: bold; font-style:italic; background-color:red}
+      img{height:200px; width:200px; border-color: red;  display: block;
+    margin-left: auto;
+    margin-right: auto;
+        
+  
+  
+  
+
